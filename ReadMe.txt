@@ -1,5 +1,5 @@
-nltk: This is the Natural Language Toolkit, a widely used library in Python for working with human language data. It provides modules for text processing, tokenization, stemming, tagging, parsing, and more.
-LancasterStemmer: This is a stemming algorithm provided by NLTK. Stemming is the process of reducing words to their root or base form.
+nltk: This is the Natural Language Toolkit, a popular Python toolkit for manipulating data related to human language. Text processing, tokenization, stemming, tagging, parsing, and other functions are covered by its modules.
+LancasterStemmer: This is an NLTK stemming method. Reducing words to their base or root form is known as stemming.
 intents: This dictionary maps user intents (like greeting, farewell, gratitude, etc.) to corresponding responses. Each key represents an intent (e.g., "hello") and its value is the response the chatbot should give.
 
 Key Features of NLTK:
